@@ -1,1 +1,1 @@
-# IntellStudy    
+# IntellStudy     
